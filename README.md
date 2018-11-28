@@ -31,5 +31,4 @@ Stereo matching and 3D depth-map computation
   find the matching image region of the same size in the same row of the left image L(i,j).
 •	Use Sum-of-Squared-Differences (SSD) minimization method to match the stereo images as discussed in class. 
 •	Compute and print the 3D coordinates (X,Y,Z) of each 8x8 image tile in the right image R(i,j) 
-  (in mm rounded to the nearest mm). If you can, then you may display your output using a 3D surface 
-  plot of the data in matlab.
+  (in mm rounded to the nearest mm).
